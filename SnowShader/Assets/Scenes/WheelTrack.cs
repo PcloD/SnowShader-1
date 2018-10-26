@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class WhellTrack : MonoBehaviour {
+public class WheelTrack : MonoBehaviour {
     public Shader _drawShader;
     public GameObject _terrain;
     public Transform[] _wheel;
